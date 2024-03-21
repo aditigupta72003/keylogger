@@ -1,0 +1,120 @@
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.101
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.102
+Public IP ADDRESS :103.211.114.0processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.0.102
+Public IP ADDRESS :152.58.47.165processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.213.240
+Public IP ADDRESS :152.58.47.165processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.213.240
+Public IP ADDRESS :152.58.47.165processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System:Windows10.0.22621
+Machine:AMD64
+Hostname:ADITIGUPTA
+private ip address :192.168.213.240
